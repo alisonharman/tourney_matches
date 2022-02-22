@@ -1,6 +1,6 @@
 import React from "react";
 import Match from "./Match";
-import matchData from "./data/matchData";
+import matchData from "../data/matchData";
 
 function MatchList(props) {
 
